@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE taxpayer SYSTEM "dataStructure.dtd" >
+<database>
+	<taxpayer>
+		<name>name</name>
+		<address>address</address>
+		<pan>pan</pan>
+		<dob>dob</dob>
+		<assessmentyear>assessmentyear</assessmentyear>
+		<income>income</income>
+		<tds>tds</tds>
+		<taxdeducted>taxdeducted</taxdeducted>
+	</taxpayer>
+</database>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT database (taxpayer)>
+<!ELEMENT taxpayer (name,address,pan,dob,assessmentyear,income,tds,taxdeducted)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT pan (#PCDATA)>
+<!ELEMENT dob (#PCDATA)>
+<!ELEMENT assessmentyear (#PCDATA)>
+<!ELEMENT income (#PCDATA)>
+<!ELEMENT tds (#PCDATA)>
+<!ELEMENT taxdeducted (#PCDATA)>
